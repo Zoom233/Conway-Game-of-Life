@@ -1,2 +1,0 @@
-/usr/bin/ar qc libgame.a  CMakeFiles/game.dir/Game.cpp.o CMakeFiles/game.dir/Shader.cpp.o CMakeFiles/game.dir/Texture.cpp.o CMakeFiles/game.dir/ResourceManager.cpp.o CMakeFiles/game.dir/stb_image.cpp.o CMakeFiles/game.dir/SpriteRenderer.cpp.o CMakeFiles/game.dir/GameObject.cpp.o CMakeFiles/game.dir/GameLevel.cpp.o
-/usr/bin/ranlib libgame.a
