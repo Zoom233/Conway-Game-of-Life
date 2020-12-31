@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/ImGUIDemo.dir/main.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/main.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/main.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/glad",
+  "command": "/usr/bin/clang  -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -o CMakeFiles/glad.dir/glad.c.o   -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glad/glad.c\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glad/glad.c"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_demo.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_draw.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui_impl_glfw.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_impl_glfw.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_impl_opengl3.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_tables.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/include/imgui",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_widgets.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/Game.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/Game.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/Game.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/Shader.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/Shader.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/Shader.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/Texture.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/Texture.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/Texture.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/ResourceManager.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/ResourceManager.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/ResourceManager.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/stb_image.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/stb_image.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/stb_image.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/SpriteRenderer.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/SpriteRenderer.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/SpriteRenderer.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/GameObject.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/GameObject.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/GameObject.cpp"
+},
+{
+  "directory": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/build/src",
+  "command": "/usr/bin/clang++   -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/build\" -I\"/Users/zoom/Dev/Personal Project/ImGUI_Demo/include/glm/..\"  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/game.dir/GameLevel.cpp.o -c \"/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/GameLevel.cpp\"",
+  "file": "/Users/zoom/Dev/Personal Project/ImGUI_Demo/src/GameLevel.cpp"
+}
+]
